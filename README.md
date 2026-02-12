@@ -65,7 +65,7 @@ The goal of this project is to demonstrate data analysis, dashboard design and b
 - Dashboard Screenshots
 
 ## 👤 Author
-Anand Rajput – Aspiring Data Analyst
+Anand Kumar | Aspiring Data Analyst
 
 I am currently building real-world data analytics projects using Excel, SQL and Power BI.
 Open to learning opportunities and feedback.
